@@ -256,9 +256,6 @@ ctk.CTkButton(main_frame, text="Upload Ch11", command=upload5).grid(row=9, colum
 ctk.CTkButton(main_frame, text="Start", command=start, width=47, fg_color="green").grid(row=9, column=1, sticky=tk.N+tk.W+tk.S+tk.E)
 
 
-# widget outside frame
-ctk.CTkLabel(window, text="Website:", font=("Ubuntu", 13)).grid(row=10, columnspan=2)
-
 # every widget (in frame) padding
 for wig in main_frame.winfo_children():
     wig.grid_configure(padx=20, pady=10)
