@@ -91,9 +91,15 @@ def upload5():
 
 def start():
     start = time.perf_counter()
+
+    """checked if all channel files have been uploaded"""
+    if list1 and list2 and list3 and list4 and list5:
+        message = "Don't close the application!! \nBut close this warningbox \n\nIt will take few minutes \nPlease have patience :/"
+    else:
+        message = "Check if you uploaded every channel file :/"
     
     """first message"""
-    messagebox.showwarning(title="Loading", message="Don't close the application!! \nBut close this warningbox \n\nIt will take few minutes \nPlease have patience :/")
+    messagebox.showwarning(title="Loading", message=message)
 
     
     """open and reshape the Channels"""
