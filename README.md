@@ -1,5 +1,5 @@
 # EyeOfSentinel2
-### A Hackathon project
+### Hackathon project
 
 ## Inspiration
 
