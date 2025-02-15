@@ -11,12 +11,7 @@ And then I wondered how to check the distribution of buildings and green spaces 
 
 Using the channels from the satellite image, the program calculates the NDVI, NDWI, NDSI, NDBI[^1] and NDBSI of the satellite image. And creates plots from it.
 
-[^1]:
-Normalized Difference Vegetation Index
-Normalized Difference Water Index
-Normalized Difference Snow Index
-Normalized Difference Built-up Index
-Normalized Difference Bare Soil
+[^1]: Normalized Difference Vegetation Index, Normalized Difference Water Index, Normalized Difference Snow Index, Normalized Difference Built-up Index, Normalized Difference Bare Soil
 
 ## How I built it
 
