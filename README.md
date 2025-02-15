@@ -36,3 +36,5 @@ I am proud that my project works at all.
 I learned a lot about satellites. How they work and what NDVI, NDWI, etc. are. I also learned about the problems with our cities today.
 
 ## What's next for EyeOfSentinel2
+
+## How it works
