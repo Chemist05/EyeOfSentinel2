@@ -18,12 +18,12 @@ Using the channels from the satellite image, the program calculates the NDVI, ND
 I programmed this GUI with Python. 
 I used vscode and google colab as editor.
 For my program I used these libraries because of these reasons:
-tkinker & customtkinter --> create and style GUI
-matplotlib --> create plots
-rasterio --> open file(channel) and reshape it
-cv2 --> resize the channels 
-(not necessary) time --> checked how long it takes to finish 
-os & random --> create a new folder every time the program is used
+* tkinker & customtkinter --> create and style GUI
+* matplotlib --> create plots
+* rasterio --> open file(channel) and reshape it
+* cv2 --> resize the channels 
+* (not necessary) time --> checked how long it takes to finish 
+* os & random --> create a new folder every time the program is used
 
 ## Challenges I ran into
 The design was a bit of a challenge. 
