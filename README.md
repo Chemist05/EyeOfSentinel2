@@ -38,3 +38,12 @@ I learned a lot about satellites. How they work and what NDVI, NDWI, etc. are. I
 ## What's next for EyeOfSentinel2
 
 ## How it works
+First you need a satellite image. You can get this in Copernicus Browser from easa. After you have downloaded a satellite image, you will get different folders with different files. The files we need are in:
+
+downloaded folder --> GRANULE --> click on the only folder --> IMG_DATA --> R20m or R60m (your choice)
+
+There you will see these files, these are the channels:
+![Screenshot 2025-02-16 193200](https://github.com/user-attachments/assets/77f84fb1-3948-41be-803b-c0c43ea5c1a5)
+![Sentinel-2-band-characteristics](https://github.com/user-attachments/assets/bb92bb69-508d-443d-8d96-790d9ec40d02)
+
+You simply upload them into the program and then you will get the results.
