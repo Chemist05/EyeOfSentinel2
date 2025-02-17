@@ -46,4 +46,4 @@ There you will see these files, these are the channels:
 ![Screenshot 2025-02-16 193200](https://github.com/user-attachments/assets/77f84fb1-3948-41be-803b-c0c43ea5c1a5)
 ![Sentinel-2-band-characteristics](https://github.com/user-attachments/assets/bb92bb69-508d-443d-8d96-790d9ec40d02)
 
-You simply upload them into the program and then you will get the results.
+You simply convert them into .tiff files and then upload them into the program. Finally, you will get the results.
