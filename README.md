@@ -36,6 +36,7 @@ I am proud that my project works at all.
 I learned a lot about satellites. How they work and what NDVI, NDWI, etc. are. I also learned about the problems with our cities today.
 
 ## What's next for EyeOfSentinel2
+A similar programme will be install in a drone. It will monitor forest fires, soil dryness, destroyed infrastructure, etc.
 
 ## How it works
 First you need a satellite image. You can get this in Copernicus Browser from easa. After you have downloaded a satellite image, you will get different folders with different files. The files we need are in:
